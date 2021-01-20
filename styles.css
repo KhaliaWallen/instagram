@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-topic {
+    color: blue;
+    background-color: lightgrey;
+    padding: 10px;
+    border: 10px solid black;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.Boogieman {
+    height: 150px;
+    background-color: lightgrey;
+    padding: 10px;
+    border: 10px solid black;
+    margin: 10px;
+}
+
+img {
+    height: 250px;
+    background-color: lightgrey;
+    padding: 10px;
+    border: 10px solid black;
+    margin: 10px;
+}
+
+
+body {
+    background-image: url("https://martztrailways.com/wp-content/uploads/2017/05/city.jpg");
+}
+
+ul {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: lightgrey;
+}
+
+a{color:white;}
